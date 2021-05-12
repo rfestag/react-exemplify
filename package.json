@@ -45,7 +45,7 @@
   ],
   "dependencies": {
     "buble": "^0.19.8",
-    "codemirror": "^5.48.0",
+    "codemirror": "^5.58.2",
     "prop-types": "^15.7.2",
     "react-codemirror2": "^6.0.0",
     "react-dir": "https://github.com/rfestag/react-dir.git",
